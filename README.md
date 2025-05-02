@@ -43,6 +43,6 @@ Disclaimer:
 This code is intended strictly for educational and research purposes.
 Do NOT use this software against machines you do not own or operate without permission.
 
-Created by: [Your Name or Alias]
+Created by: Lyxt
 Year: 2025
 
