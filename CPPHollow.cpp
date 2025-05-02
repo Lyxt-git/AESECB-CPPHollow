@@ -14,9 +14,9 @@
 const byte AES_KEY[16] = { 'S', 'i', 'x', 't', 'e', 'e', 'n', ' ', 'b', 'y', 't', 'e', ' ', 'k', 'e', 'y' };
 
 // File paths
-const std::string BASE_PATH = "C:\\Users\\berzerker\\Desktop\\The Folder\\My Project\\Other Project\\C2 Framework Project VMWare\\Obfuscation Project Host using C++ 32bit Target (64bit Env)\\";
-const std::string EXECUTOR_PATH = BASE_PATH + "payloads\\Executor.exe";
-const std::string ENCRYPTED_PATH = BASE_PATH + "enc\\Executor.enc";
+const std::string BASE_PATH = "//"; //BasedPath
+const std::string EXECUTOR_PATH = BASE_PATH + "payloads\\Executor.exe"; // Payloads Path
+const std::string ENCRYPTED_PATH = BASE_PATH + "enc\\Executor.enc"; // Enc Path
 
 
 // Read file into a byte vector
